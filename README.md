@@ -28,6 +28,9 @@ It was then tested by using Studio 3T
 newly added users under collection/users.<br>
 
 # Screenshots:
+![Screen Shot#1](/images/screen1.png)<br><br>
+![Screen Shot#2](/images/screen2.png)<br><br>
+![Screen Shot#3](/images/screen3.png)
 
 # Technology Used:
 HTML<br>
